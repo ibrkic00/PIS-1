@@ -1,4 +1,6 @@
 #include<iostream>
+#include"./NewClass.h"
+#include"./NewClass2.h"
 using namespace std;
 
 int main()
